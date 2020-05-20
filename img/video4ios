@@ -1,0 +1,1 @@
+ffmpeg -i $1 -vcodec libx264 -profile:v main -level 3.1 -preset medium -crf 23 -x264-params ref=4 -acodec copy -movflags +faststart $1-output.mp4

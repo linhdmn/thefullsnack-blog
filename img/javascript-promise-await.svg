@@ -1,0 +1,57 @@
+<svg class="bob" font-family="Inconsolas, Menlo, Consolas, monospace" font-size="22" height="96" width="848" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="triangle" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="15" refY="10" viewBox="0 0 50 20">
+<path d="M 0 0 L 30 10 L 0 20 z"/>
+</marker>
+</defs>
+<style>
+
+    line, path {
+      stroke: black;
+      stroke-width: 4;
+      stroke-opacity: 1;
+      fill-opacity: 1;
+      stroke-linecap: round;
+      stroke-linejoin: miter;
+    }
+    circle {
+      stroke: black;
+      stroke-width: 4;
+      stroke-opacity: 1;
+      fill-opacity: 1;
+      stroke-linecap: round;
+      stroke-linejoin: miter;
+    }
+    circle.solid {
+      fill:black;
+    }
+    circle.open {
+      fill:transparent;
+    }
+    tspan.head{
+        fill: none;
+        stroke: none;
+    }
+    
+</style>
+<path d=" M 40 16 L 48 16 M 40 16 L 40 32 M 56 16 L 48 16 M 56 16 L 64 16 M 56 16 L 56 32 M 64 16 L 80 16 M 64 16 L 80 16 L 96 16 M 80 16 L 96 16 L 112 16 M 96 16 L 112 16 L 128 16 M 112 16 L 128 16 L 144 16 M 128 16 L 144 16 L 160 16 M 144 16 L 160 16 L 176 16 M 160 16 L 176 16 L 192 16 M 176 16 L 192 16 L 208 16 M 192 16 L 208 16 L 224 16 M 208 16 L 224 16 L 240 16 M 224 16 L 240 16 L 256 16 M 240 16 L 256 16 L 272 16 M 256 16 L 272 16 L 288 16 M 272 16 L 288 16 L 304 16 M 288 16 L 304 16 L 320 16 M 304 16 L 320 16 M 328 16 L 320 16 M 328 16 L 336 16 M 328 16 L 328 32 M 344 16 L 336 16 M 344 16 L 344 32 M 456 16 L 464 16 M 456 16 L 456 32 M 464 16 L 480 16 M 464 16 L 480 16 L 496 16 M 480 16 L 496 16 L 512 16 M 496 16 L 512 16 L 528 16 M 512 16 L 528 16 L 544 16 M 528 16 L 544 16 L 560 16 M 544 16 L 560 16 L 576 16 M 560 16 L 576 16 M 584 16 L 576 16 M 584 16 L 584 32 M 704 16 A 8 8 0 0 0 696 24 L 696 32 M 704 16 L 720 16 M 704 16 L 720 16 L 736 16 M 720 16 L 736 16 L 752 16 M 736 16 L 752 16 L 768 16 M 752 16 L 768 16 L 784 16 M 768 16 L 784 16 L 800 16 M 784 16 L 800 16 L 816 16 M 800 16 L 816 16 L 832 16 M 816 16 L 832 16 M 840 24 A 8 8 0 0 0 832 16 M 840 24 L 840 32 M 40 32 L 40 64 M 40 32 L 40 64 M 56 32 L 56 64 M 56 32 L 56 64 M 328 32 L 328 64 M 328 32 L 328 64 M 344 32 L 344 64 M 344 32 L 344 64 M 368 48 L 344 48 M 384 48 L 400 48 M 384 48 L 400 48 M 456 32 L 456 64 M 456 32 L 456 64 M 584 32 L 584 64 M 584 32 L 584 64 M 608 48 L 584 48 M 624 48 L 640 48 M 624 48 L 640 48 M 696 32 L 696 64 M 696 32 L 696 64 M 840 32 L 840 64 M 840 32 L 840 64 M 40 80 L 40 64 M 40 80 L 48 80 M 56 80 L 56 64 M 56 80 L 48 80 M 56 80 L 64 80 L 80 80 M 64 80 L 80 80 L 96 80 M 80 80 L 96 80 L 112 80 M 96 80 L 112 80 L 128 80 M 112 80 L 128 80 L 144 80 M 128 80 L 144 80 L 160 80 M 144 80 L 160 80 L 176 80 M 160 80 L 176 80 L 192 80 M 176 80 L 192 80 L 208 80 M 192 80 L 208 80 L 224 80 M 208 80 L 224 80 L 240 80 M 224 80 L 240 80 L 256 80 M 240 80 L 256 80 L 272 80 M 256 80 L 272 80 L 288 80 M 272 80 L 288 80 L 304 80 M 288 80 L 304 80 L 320 80 M 304 80 L 320 80 M 328 80 L 328 64 M 328 80 L 320 80 M 328 80 L 336 80 M 344 80 L 344 64 M 344 80 L 336 80 M 456 80 L 456 64 M 456 80 L 464 80 L 480 80 M 464 80 L 480 80 L 496 80 M 480 80 L 496 80 L 512 80 M 496 80 L 512 80 L 528 80 M 512 80 L 528 80 L 544 80 M 528 80 L 544 80 L 560 80 M 544 80 L 560 80 L 576 80 M 560 80 L 576 80 M 584 80 L 584 64 M 584 80 L 576 80 M 696 72 L 696 64 M 696 72 A 8 8 0 0 0 704 80 L 720 80 M 704 80 L 720 80 L 736 80 M 720 80 L 736 80 L 752 80 M 736 80 L 752 80 L 768 80 M 752 80 L 768 80 L 784 80 M 768 80 L 784 80 L 800 80 M 784 80 L 800 80 L 816 80 M 800 80 L 816 80 L 832 80 M 816 80 L 832 80 M 840 72 L 840 64 M 832 80 A 8 8 0 0 0 840 72" fill="none"/>
+<path d="" fill="none" stroke-dasharray="3 3"/>
+<line marker-end="url(#triangle)" x1="416" x2="440" y1="48" y2="48"/>
+<line marker-end="url(#triangle)" x1="416" x2="440" y1="48" y2="48"/>
+<line marker-end="url(#triangle)" x1="432" x2="440" y1="48" y2="48"/>
+<line marker-end="url(#triangle)" x1="656" x2="680" y1="48" y2="48"/>
+<line marker-end="url(#triangle)" x1="656" x2="680" y1="48" y2="48"/>
+<line marker-end="url(#triangle)" x1="672" x2="680" y1="48" y2="48"/>
+<text x="82" y="56">
+Promise
+</text>
+<text x="210" y="56">
+number
+</text>
+<text x="482" y="56">
+await
+</text>
+<text x="722" y="56">
+number
+</text>
+</svg>
